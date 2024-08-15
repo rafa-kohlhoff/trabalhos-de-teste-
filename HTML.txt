@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="eu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>link</title>
+
+</head>
+<body>
+    <a href="https://www.google.com">google</a>
+    <br>
+
+    
+
+    <br>
+
+
+    <h1> meu divertimento um dia. </h1>
+    <p> OLÁ DEUS ME PERDOE PELOS MEUS PECADOS E
+         ME AJUDE POR FAVOR
+         PRECISO DE VOCE
+         MEU GRANDE PAI PERDOA EU JESUS</p>
+</body>
+</html>
+<h1>Titulo 1</h1>
+
+<h1>Titulo 2</h1>
+
+<h1>Titulo 3</h1>
+
+<h1>Titulo 4</h1>
+
+<h1>Titulo 5</h1>
+
+<h1>Titulo 6</h1>
+ 
+<h2> Lista não ordenadas </h2>
+<ul>
+     <li>Item 1</li>
+     <li>Item 2</li>
+     <li>Item 3</li>
+     <li>Item 4</li>
+</ul>
+
+<h2>Lista ordenada</h2>
+<ol>
+    <li>Item 5</li>
+    <li>Item 6</li>
+    <li>Item 7</li>
+    <li>Item 8</li>
+    <h2>imagens</h2>
+    
+</ol>
